@@ -1,0 +1,174 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.headd{
+    background-image: url(intro-bg.jpg);
+    background-position: center center;
+    background-size:100% 100%;
+    background-attachment:fixed ;
+    
+
+}
+
+
+.head h1{
+font-size: 60px;
+}
+
+
+
+
+
+.about-me{
+    background-color: rgb(238, 238, 238);
+}
+
+.about-me ul{
+    list-style: none;
+}
+
+.about-me ul span{
+font-weight: 500;
+}
+
+.line{
+
+    width: 50px;
+    height: 4px;
+    background-color:#0078ff ;
+
+}
+  /*  .SERVICES*/
+.SERVICES{
+    background-color: rgb(238, 238, 238);
+}
+
+.line1{
+
+    width: 50px;
+    height: 4px;
+    background-color:#0078ff ;
+margin: 0 auto;
+}
+
+
+
+
+.icon{
+padding: 20px;
+border-radius:   50%;
+border: 6px;
+border-style: solid ;
+border-color: #0078ff;
+}
+
+
+.icon:hover{
+    transition: 1s;
+    border-color: #b9c2cb;
+    background-color: #0078ff;
+    color: #ffffff;
+}
+
+ .icoid{
+    padding: 50px;
+ }
+ .iconef{
+    font-size: 30px;
+ }
+
+
+ /* number */
+.number{
+    position: relative;
+    background: linear-gradient(rgba(0, 58, 249, 0.692), rgba(3, 7, 255, 0.546)), url("post-3.jpg");
+
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+background-size: cover;
+}
+.nico{
+    font-size: 22px;
+    border-radius: 50%;
+    padding: 20px;
+    border: 7px solid #b9c2cb;
+}
+
+.prod{
+    
+    background-color: rgb(238, 238, 238);
+}
+
+
+.card-img img:hover{
+transition: 2s ;
+transform:scale(1.5 ) ;
+} 
+
+
+.pic {
+    background-image: url(overlay-bg.jpg);
+background-position:center ;
+background-attachment:fixed ;
+height: 300px;
+
+}
+
+
+.blog{
+    background-color: rgb(238, 238, 238);
+}
+
+
+
+.card1 h5{
+    background-color: #0078ff;
+    margin-left:  80px;
+    margin-right: 80px;
+
+    text-align: center;
+    position: relative;
+    top: -30px; ;
+    
+}
+
+small img
+{
+
+    height: 20px;
+width:  20px;
+border-radius: 50%;
+margin-right: 20px;
+}
+
+
+
+
+.foter{
+    background: linear-gradient(rgba(19, 19, 207, 0.8), rgba(29, 92, 186, 0.8)), url("overlay-bg.jpg");
+
+height: 100vh;
+
+}
+
+
+
+
+.iconn{
+    padding: 10px;
+    border-radius:   50%;
+    border: 6px;
+    border-style: solid ;
+    border-color: #0078ff;
+    }
+    .iconn:hover{
+        transition: 1s;
+        border-color: #b9c2cb;
+        background-color: #0078ff;
+        color: #ffffff;
+    }
+    
+
